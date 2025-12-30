@@ -22,12 +22,9 @@
 ### 📊 GitHub Stats
 
 # Test
-![Stats](https://github-readme-stats.vercel.app/api?username=Christi049)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christi049&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christi049&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christi049&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Christi049&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Christi049&layout=compact&theme=tokyonight)
 
  ---
 ### 🔗 Connect with Me
