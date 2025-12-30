@@ -1,4 +1,4 @@
-<h1 align="center">Christi </h1>
+<h1 align="center">Hi! I'm Christi </h1>
 <h3 align="center">Computer Science Student | Aspiring AI & Machine Learning Developer </h3>
 
 ---
@@ -20,6 +20,10 @@
 ---
 
 ### 📊 GitHub Stats
+
+# Test
+![Stats](https://github-readme-stats.vercel.app/api?username=Christi049)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christi049&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christi049&layout=compact&theme=tokyonight)
