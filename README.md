@@ -23,8 +23,8 @@
 
 # Test
 
-![GitHub Stats](https://readme-stats-nine-kappa.vercel.app/api?username=Christi049&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-nine-kappa.vercel.app/api/top-langs/?username=Christi049&layout=compact&theme=tokyonight&hide=java)
+
  ---
 ### 🔗 Connect with Me
 
