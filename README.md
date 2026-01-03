@@ -21,8 +21,6 @@
 
 ### 📊 GitHub Stats
 
-# Test
-
 ![Top Langs](https://readme-stats-nine-kappa.vercel.app/api/top-langs/?username=Christi049&layout=compact&theme=tokyonight&hide=java)
 
  ---
