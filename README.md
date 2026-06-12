@@ -3,22 +3,22 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 BTech Computer Science Student
-- 💻 Learning about new AI technologies
-- 🚀 Interested in internships & open source
-- 🌱 Currently learning agentic AI
+### About Me
+- BTech Computer Science Student
+- Learning about new AI technologies
+- Interested in internships & open source
+- Currently learning agentic AI
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Top Langs](https://readme-stats-nine-kappa.vercel.app/api/top-langs/?username=Christi049&layout=compact&theme=tokyonight&hide=java)
 
  ---
-### 🔗 Connect with Me
+### Connect with Me
 
-- 📧 Email: christi.thomas44@email.com
+- Email: christi.thomas44@email.com
 
 <!--
 **Christi049/Christi049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
