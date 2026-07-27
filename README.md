@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Christi ^-^ </h1>
-<h3 align="center">Computer Science Student | Aspiring AI & Machine Learning Developer </h3>
+<h3 align="center">Computer Science Student | Aspiring AI & Machine Learning Developer </h3> 
 
 ---
 
